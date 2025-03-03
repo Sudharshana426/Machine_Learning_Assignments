@@ -31,13 +31,9 @@ This project implements a simple linear regression model using Python and NumPy.
 - Matplotlib
 
 ## How to Run
-1. Clone the repository or copy the script.
-2. Ensure required libraries are installed using:
-   ```sh
-   pip install numpy matplotlib
-   ```
-3. Run the ipynb file in VS Code/ Google Colab/ Jupyter Notebook
-4. View the plots and results in the console.
+1. Clone the repository
+2. Run the ipynb file in VS Code/ Google Colab/ Jupyter Notebook
+3. View the plots and results in the console.
 
 ## Conclusion
 This project provides an intuitive understanding of linear regression, optimization techniques, and the importance of choosing the right method to minimize loss effectively.
