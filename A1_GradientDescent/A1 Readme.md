@@ -1,4 +1,4 @@
-# Linear Regression: Finding the Best Fit Line
+# Linear Regression: Finding the Best Fit Line using Linear Search and Gradient Descent
 
 ## Overview
 This project implements a simple linear regression model using Python and NumPy. The goal is to find the best-fit line for a given dataset using different optimization techniques, including linear search and gradient descent.
